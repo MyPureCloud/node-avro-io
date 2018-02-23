@@ -1,3 +1,10 @@
+# THIS IS A RESTORED BACKUP OF A FORK
+
+Do not maintain this repo. Make a new fork from https://github.com/jamesbrucepower/node-avro-io in PureCloudLabs if necessary.
+
+---------
+
+
 Node Avro IO
 ============
 
