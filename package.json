@@ -16,7 +16,7 @@
     "test": "make test"
   },
   "dependencies": {
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.19",
     "snappy": "^4.0.1",
     "buffer-crc32": "^0.2.5",
     "int64-native": "^0.4.0"
